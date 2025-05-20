@@ -7,3 +7,4 @@ Dodane zmiany:
 - Podliczanie punktów
 - Napis GAME OVER oraz finalna ilość punktów po przegraniu gry
 - Efekty dźwiękowe strzelania i zbijania asteroid (nie słychać na gifie)
+![Animation](https://github.com/user-attachments/assets/f6c967b9-2a29-4ddf-8e57-c6ac18670f79)
