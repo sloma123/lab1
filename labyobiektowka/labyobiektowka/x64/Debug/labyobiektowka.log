@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\aleks\vs\labyobiektowka\labyobiektowka\main.cpp(119,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\aleks\vs\labyobiektowka\labyobiektowka\main.cpp(122,72): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\aleks\vs\labyobiektowka\labyobiektowka\main.cpp(125,49): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\aleks\vs\labyobiektowka\labyobiektowka\main.cpp(128,63): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\aleks\vs\labyobiektowka\labyobiektowka\main.cpp(133,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\aleks\vs\labyobiektowka\labyobiektowka\main.cpp(133,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\aleks\vs\labyobiektowka\labyobiektowka\main.cpp(179,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\aleks\vs\labyobiektowka\labyobiektowka\main.cpp(235,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\aleks\vs\labyobiektowka\labyobiektowka\main.cpp(412,30): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  labyobiektowka.vcxproj -> C:\Users\aleks\vs\labyobiektowka\x64\Debug\labyobiektowka.exe
